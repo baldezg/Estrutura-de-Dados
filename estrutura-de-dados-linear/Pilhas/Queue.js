@@ -3,7 +3,7 @@ const LinkedList = require("./LinkedList");
 class Queue {
   constructor(maxSize = Infinity) {
     this.queue = new LinkedList();
-    this.maxSize = maxSize;
+    this.maxSize = maxSize; // Propriedade que controla o tamanho máximo da fila
     this.size = 0;
   }
 
