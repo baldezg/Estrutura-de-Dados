@@ -2,3 +2,5 @@
 * Listas
   * Listas individuais vinculadas
   * Listas duplamente vinculadas
+* Filas
+* Pilhas
